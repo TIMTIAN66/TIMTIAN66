@@ -1,6 +1,7 @@
 ---
 title: "Convolutional Neural Network-Based Identifying Gender of Kiwifruit Flowers in Autonomous Pollination for Future Farming"
 collection: publications
+category: Conference Papers
 permalink: /publication/2023-08-22-convolutional-neural-network-based-identifying
 date: 2023-08-22
 venue: 'International Conference on Mechatronics and Intelligent Robotics'
