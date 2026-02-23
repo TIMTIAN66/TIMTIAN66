@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Biomedical Informatics**, National University of Singapore (NUS)
+  * *Jul. 2025 - Jan. 2027 (Expected)*
+  * Current GPA: 3.91/4.0
+* **B.Eng in Data Science and Big Data Technology**, Xi'an Jiaotong Liverpool University (XJTLU)
+  * *Sep. 2021 - June 2025*
+  * First Class Honors
+  * Overall GPA: 3.65/4.0
 
-Work experience
+## Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **University Academic Achievement Award (Top 10%)**, Xi'an Jiaotong Liverpool University, *July 2024*
+* **University Academic Achievement Award (Top 10%)**, Xi'an Jiaotong Liverpool University, *July 2023*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+## Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI for Healthcare
+* Computational Pathology
+* Medical Foundation Models
+* Multimodal Medical AI
+* Semantic Alignment in Medical Data
 
-Publications
+## Skills
+======
+* **Programming Languages:** Python, Java, C/C++, SQL, JavaScript, HTML/CSS, R, Matlab
+* **Deep Learning & Data Libraries:** PyTorch, TensorFlow, YOLO, pandas, NumPy, Matplotlib
+* **Developer Tools:** Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, SPSS
+
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+## Preprints & Working Papers
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Direction-Guided Watershed for Adherent Cell Instance Segmentation**
+  * *First-author(Co-first)*. IEEE ISBI 2026 accept
+* **Transcriptionally Controlled De Novo Molecular Generation through Hierarchical Gene Encoding and Adaptive Feature Modulation**
+  * *Co-author*. Under Review, 2026
+* **KPMamba: Token-Level Semantic Alignment for Pose Estimation**
+  * *First-author (Co-first)*. Manuscript Prepared, 2026
+* **Semantic Alignment in Medical Data: A Survey**
+  * *First-author (Co-first)*. Manuscript Prepared, 2026
