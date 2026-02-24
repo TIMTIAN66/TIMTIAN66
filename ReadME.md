@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am **Yi Tian**, an M.Sc. student in **Biomedical Informatics at the National University of Singapore (NUS)** (2025–2027). My prior training and research focus on **medical image processing**, particularly **computational pathology** (e.g., **cell detection** and **instance segmentation**), where I develop efficient, structure-aware methods for small and densely packed objects. I continue to maintain a strong interest in **medical image analysis**, especially pathology-related detection and segmentation problems.
 
 Building on this imaging foundation, I am **actively exploring multimodal medical AI**, with an interest in **medical multimodal models** adapted from strong general-purpose multimodal backbones (e.g., models with long-context reasoning and tool use) for clinical settings. In parallel, I am also exploring **retrieval-augmented generation (RAG)** and **tool-augmented medical LLM systems** to improve factual grounding, reliability, and workflow integration when working with **medical images, clinical text (reports/notes), structured health data, and external knowledge sources (e.g., guidelines and literature)**.
