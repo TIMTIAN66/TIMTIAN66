@@ -17,7 +17,7 @@ redirect_from:
 * **B.Eng in Data Science and Big Data Technology**, Xi'an Jiaotong Liverpool University (XJTLU)
   * *Sep. 2021 - June 2025*
   * First Class Honors
-  * Overall GPA: 3.65/4.0 (HightestGPA: 3.91/4.0)
+  * Overall GPA: 3.65/4.0  (Highest GPA: 3.91/4.0)
 
 ## Awards and Honors
 
